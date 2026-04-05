@@ -7,7 +7,17 @@ source "https://rubygems.org"
 #
 
 
-gem 'github-pages', group: :jekyll_plugins
+gem "jekyll", ">= 4.3"
 
+group :jekyll_plugins do
+  gem 'jekyll-sitemap'
+  gem 'jekyll-feed'
+  gem 'jekyll-seo-tag'
+end
+
+gem "liquid", ">=4.0.4"
+
+gem "bigdecimal"
+gem "csv"
 gem "minima"
 gem "webrick"
