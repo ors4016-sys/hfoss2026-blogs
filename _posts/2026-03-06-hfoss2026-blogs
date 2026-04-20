@@ -1,0 +1,25 @@
+---
+layout: post
+# If your post title is longer or more complicated
+# than can be represented in the filename, uncomment the following line
+# and specify a custom title
+title:  "Submit Blog Post"
+
+# Uncomment only one of the below categories
+categories: 
+#- Bug Fix
+#- Contribution
+-Changed the description in Blender github (https://projects.blender.org/blender/blender-manual/pulls/105421)
+
+#What the project is
+A post to git hub
+#Why you picked it
+required task
+How your Comm Arch experience showed you it would be good to work with Note
+
+# Enter your name below
+author: Jingzhi Zhang
+---
+
+## Hey there!
+This is my Final Blog post!
