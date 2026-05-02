@@ -5,6 +5,7 @@ May 2, 2026 • Joshua DeWinter
 ### What the project is
 For my second contribution, I have continued working on the Rochester Abandoned Subway
 VR experience - a recreation of the Rochester Abandoned Subway in VR!
+
 ![Rochester Abandoned Subway Picture](../assets/2026-05-02-abandoned-subway-2/abandoned-subway-rl.jpg)
 ### Why you picked it
 I picked this project because VR is a big passion of mine, and I was put on this
@@ -19,6 +20,7 @@ with lots of photos and references for how the subway is layed out.
 Building off of getting the smooth locomotion working, the rest of the player
 controller (physical hands, climbing) and other interactions (pressing buttons)
 needed to be added for complete immersion.
+
 ![The "Physical Playground" testing scene](../assets/2026-05-02-abandoned-subway-2/physical-playground.png)
 ### How I pursued it
 I started off by referring back to a project I worked on a couple years ago where
@@ -35,6 +37,7 @@ some sort of spring physics to push themselves back up between two points, howev
 what I had been looking into did not pan out and my physics button was placed on
 the backburner. Thus, a simple collider that triggers an animation of the button
 being pressed was vastly simpler to create and functioned well.
+
 ![VR Buttons](../assets/2026-05-02-abandoned-subway-2/buttons.png)
 ### How I succeeded in getting it accepted/merged
 After a lot of messing around with SSH Keys, I was finally able to push my work
