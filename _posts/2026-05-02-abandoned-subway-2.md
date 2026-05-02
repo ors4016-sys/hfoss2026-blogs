@@ -42,10 +42,10 @@ being pressed was vastly simpler to create and functioned well.
 ### How I succeeded in getting it accepted/merged
 After a lot of messing around with SSH Keys, I was finally able to push my work
 to the repository as I am a primary contributor.
-##Conclusion
-###What did I learn
+## Conclusion
+### What did I learn
 That making a physics based button in Godot was not as simple as I was thinking
 and it will take more time and effort to get it working how I want.
-##Will I contribute to this community again?
+## Will I contribute to this community again?
 I will be contributing to the project continuously for the next calendar year if
 everything goes to plan.
