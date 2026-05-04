@@ -55,3 +55,6 @@ When I made my pull request, I had to agree to the CLA through a website called 
 I am still waiting for approval from the maintainers. There has been no other response as I just made the PR.
 
 Link: [https://github.com/ente-io/ente/pull/10257](https://github.com/ente-io/ente/pull/10257)
+
+![](assets/2026-05-03-tori-riggs-contribution/2026-05-03_tori_riggs_issue1.png)
+![](assets/2026-05-03-tori-riggs-contribution/2026-05-03_tori_riggs_issue2.png)
