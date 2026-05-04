@@ -39,8 +39,8 @@ I found the icons on the websites for Smogon Forums and Art Fight and downloadin
 
 These are the (now compressed) screenshots of the icons I was trying to contribute.
 
-![](/assets/2026-05-03-tori-riggs-contribution/2026-05-03_tori_riggs_art_fight_icon.png)
-![](/assets/2026-05-03-tori-riggs-contribution/2026-05-03_tori_riggs_smogon_icon.png)
+![](../assets/2026-05-03-tori-riggs-contribution/2026-05-03_tori_riggs_art_fight_icon.png)
+![](../assets/2026-05-03-tori-riggs-contribution/2026-05-03_tori_riggs_smogon_icon.png)
 
 As you can see, they are both very detailed logos.
 
@@ -56,5 +56,5 @@ I am still waiting for approval from the maintainers. There has been no other re
 
 Link: [https://github.com/ente-io/ente/pull/10257](https://github.com/ente-io/ente/pull/10257)
 
-![](/assets/2026-05-03-tori-riggs-contribution/2026-05-03_tori_riggs_issue1.png)
-![](/assets/2026-05-03-tori-riggs-contribution/2026-05-03_tori_riggs_issue2.png)
+![](../assets/2026-05-03-tori-riggs-contribution/2026-05-03_tori_riggs_issue1.png)
+![](../assets/2026-05-03-tori-riggs-contribution/2026-05-03_tori_riggs_issue2.png)
