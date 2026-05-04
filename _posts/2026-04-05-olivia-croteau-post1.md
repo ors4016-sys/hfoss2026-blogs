@@ -12,7 +12,7 @@ categories:
 
 
 # Enter your name below
-author: Olivia Croteau   
+author: Olivia Croteau
 ---
 
 ## Why did I pick [CampusPulse](https://campuspulse.app/)?
